@@ -1,0 +1,3149 @@
+{
+  "properties": [
+    {
+      "id": "prop-1",
+      "title": "Stunning Sky Penthouse Palace",
+      "type": "Penthouse",
+      "location": "New York, NY",
+      "price": 4071990,
+      "images": [
+        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 4,
+      "bathrooms": 4.5,
+      "area": 1668,
+      "description": "This stunning sky penthouse palace is situated in the highly sought-after area of New York, NY. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Home Theater",
+        "Smart Home System",
+        "Finished Basement",
+        "Gated Community",
+        "Swimming Pool",
+        "Solar Panels"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": true
+    },
+    {
+      "id": "prop-2",
+      "title": "Grand Sky Penthouse Pinnacle",
+      "type": "Penthouse",
+      "location": "Austin, TX",
+      "price": 4206447,
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 6,
+      "bathrooms": 5,
+      "area": 2754,
+      "description": "This grand sky penthouse pinnacle is situated in the highly sought-after area of Austin, TX. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Finished Basement",
+        "Wine Cellar",
+        "Fireplace",
+        "Home Theater",
+        "Private Dock",
+        "Rooftop Access",
+        "Smart Home System",
+        "Hardwood Floors"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": true
+    },
+    {
+      "id": "prop-3",
+      "title": "Scenic Sky Penthouse Estate",
+      "type": "Penthouse",
+      "location": "San Francisco, CA",
+      "price": 2338795,
+      "images": [
+        "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 6,
+      "bathrooms": 6.5,
+      "area": 3054,
+      "description": "This scenic sky penthouse estate is situated in the highly sought-after area of San Francisco, CA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Wine Cellar",
+        "Home Theater",
+        "Outdoor Kitchen",
+        "Hardwood Floors",
+        "Rooftop Access",
+        "Concierge Service"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": true
+    },
+    {
+      "id": "prop-4",
+      "title": "Modern  House Retreat",
+      "type": "House",
+      "location": "San Francisco, CA",
+      "price": 524152,
+      "images": [
+        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 1437,
+      "description": "This modern  house retreat is situated in the highly sought-after area of San Francisco, CA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Rooftop Access",
+        "Central A/C",
+        "Home Theater",
+        "Fitness Center",
+        "Gated Community",
+        "Outdoor Kitchen",
+        "Fireplace"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": true
+    },
+    {
+      "id": "prop-5",
+      "title": "Elegant Sky Penthouse Haven",
+      "type": "Penthouse",
+      "location": "Los Angeles, CA",
+      "price": 2119801,
+      "images": [
+        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 5,
+      "bathrooms": 5,
+      "area": 2935,
+      "description": "This elegant sky penthouse haven is situated in the highly sought-after area of Los Angeles, CA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Rooftop Access",
+        "Central A/C",
+        "Hardwood Floors",
+        "Smart Home System",
+        "Private Dock",
+        "Wine Cellar"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": true
+    },
+    {
+      "id": "prop-6",
+      "title": "Scenic  House Residence",
+      "type": "House",
+      "location": "Los Angeles, CA",
+      "price": 680374,
+      "images": [
+        "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area": 2788,
+      "description": "This scenic  house residence is situated in the highly sought-after area of Los Angeles, CA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Garage (2 Cars)",
+        "Fireplace",
+        "Fitness Center",
+        "Concierge Service",
+        "Rooftop Access"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": true
+    },
+    {
+      "id": "prop-7",
+      "title": "Sleek  Townhouse Retreat",
+      "type": "Townhouse",
+      "location": "San Francisco, CA",
+      "price": 837840,
+      "images": [
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 6,
+      "bathrooms": 6,
+      "area": 2832,
+      "description": "This sleek  townhouse retreat is situated in the highly sought-after area of San Francisco, CA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Solar Panels",
+        "Rooftop Access",
+        "Fireplace",
+        "Home Theater",
+        "Concierge Service",
+        "Private Dock",
+        "Fitness Center",
+        "Smart Home System"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": true
+    },
+    {
+      "id": "prop-8",
+      "title": "Peaceful  Townhouse Residence",
+      "type": "Townhouse",
+      "location": "New York, NY",
+      "price": 853021,
+      "images": [
+        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "area": 1960,
+      "description": "This peaceful  townhouse residence is situated in the highly sought-after area of New York, NY. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Smart Home System",
+        "Gated Community",
+        "Fireplace",
+        "Fitness Center",
+        "Outdoor Kitchen"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": true
+    },
+    {
+      "id": "prop-9",
+      "title": "Cozy Sky Penthouse Lodge",
+      "type": "Penthouse",
+      "location": "Las Vegas, NV",
+      "price": 3005485,
+      "images": [
+        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "area": 2710,
+      "description": "This cozy sky penthouse lodge is situated in the highly sought-after area of Las Vegas, NV. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Gated Community",
+        "Fitness Center",
+        "Wine Cellar",
+        "Smart Home System",
+        "Central A/C"
+      ],
+      "contact": {
+        "name": "Sarah Jenkins",
+        "phone": "+1 (305) 555-0199",
+        "email": "sarah.j@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": true
+    },
+    {
+      "id": "prop-10",
+      "title": "Scenic  Townhouse Estate",
+      "type": "Townhouse",
+      "location": "Seattle, WA",
+      "price": 1450593,
+      "images": [
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 6,
+      "bathrooms": 5,
+      "area": 3120,
+      "description": "This scenic  townhouse estate is situated in the highly sought-after area of Seattle, WA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Smart Home System",
+        "Central A/C",
+        "Concierge Service",
+        "Finished Basement",
+        "Private Dock"
+      ],
+      "contact": {
+        "name": "Sarah Jenkins",
+        "phone": "+1 (305) 555-0199",
+        "email": "sarah.j@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": true
+    },
+    {
+      "id": "prop-11",
+      "title": "Peaceful  Villa Sanctuary",
+      "type": "Villa",
+      "location": "Los Angeles, CA",
+      "price": 1961104,
+      "images": [
+        "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 6,
+      "bathrooms": 5,
+      "area": 3456,
+      "description": "This peaceful  villa sanctuary is situated in the highly sought-after area of Los Angeles, CA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Swimming Pool",
+        "Solar Panels",
+        "Smart Home System",
+        "Central A/C",
+        "Gated Community",
+        "Finished Basement",
+        "Home Theater",
+        "Outdoor Kitchen"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-12",
+      "title": "Modern  Apartment Haven",
+      "type": "Apartment",
+      "location": "Denver, CO",
+      "price": 342020,
+      "images": [
+        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area": 665,
+      "description": "This modern  apartment haven is situated in the highly sought-after area of Denver, CO. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Rooftop Access",
+        "Home Theater",
+        "Solar Panels",
+        "Swimming Pool",
+        "Wine Cellar",
+        "Smart Home System",
+        "Garage (2 Cars)"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-13",
+      "title": "Grand  Townhouse Haven",
+      "type": "Townhouse",
+      "location": "San Francisco, CA",
+      "price": 978547,
+      "images": [
+        "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area": 1776,
+      "description": "This grand  townhouse haven is situated in the highly sought-after area of San Francisco, CA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Rooftop Access",
+        "Smart Home System",
+        "Finished Basement",
+        "Home Theater",
+        "Central A/C"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-14",
+      "title": "Modern  Villa Retreat",
+      "type": "Villa",
+      "location": "Las Vegas, NV",
+      "price": 2386455,
+      "images": [
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 1935,
+      "description": "This modern  villa retreat is situated in the highly sought-after area of Las Vegas, NV. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Home Theater",
+        "Solar Panels",
+        "Private Dock",
+        "Smart Home System",
+        "Wine Cellar",
+        "Finished Basement",
+        "Concierge Service"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-15",
+      "title": "Cozy  House Manor",
+      "type": "House",
+      "location": "Denver, CO",
+      "price": 707410,
+      "images": [
+        "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area": 1203,
+      "description": "This cozy  house manor is situated in the highly sought-after area of Denver, CO. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Garage (2 Cars)",
+        "Home Theater",
+        "Fireplace",
+        "Private Dock",
+        "Rooftop Access",
+        "Central A/C",
+        "Gated Community"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-16",
+      "title": "Elegant  House Residence",
+      "type": "House",
+      "location": "Las Vegas, NV",
+      "price": 711400,
+      "images": [
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 6,
+      "bathrooms": 5,
+      "area": 3192,
+      "description": "This elegant  house residence is situated in the highly sought-after area of Las Vegas, NV. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Swimming Pool",
+        "Smart Home System",
+        "Central A/C",
+        "Fitness Center",
+        "Concierge Service",
+        "Finished Basement",
+        "Gated Community",
+        "Private Dock"
+      ],
+      "contact": {
+        "name": "Sarah Jenkins",
+        "phone": "+1 (305) 555-0199",
+        "email": "sarah.j@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-17",
+      "title": "Stunning  Townhouse Residence",
+      "type": "Townhouse",
+      "location": "Austin, TX",
+      "price": 1036996,
+      "images": [
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 6,
+      "bathrooms": 5,
+      "area": 2622,
+      "description": "This stunning  townhouse residence is situated in the highly sought-after area of Austin, TX. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Wine Cellar",
+        "Central A/C",
+        "Solar Panels",
+        "Home Theater",
+        "Finished Basement"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-18",
+      "title": "Cozy  Apartment Pinnacle",
+      "type": "Apartment",
+      "location": "Los Angeles, CA",
+      "price": 616785,
+      "images": [
+        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area": 1064,
+      "description": "This cozy  apartment pinnacle is situated in the highly sought-after area of Los Angeles, CA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Fireplace",
+        "Rooftop Access",
+        "Hardwood Floors",
+        "Swimming Pool",
+        "Concierge Service",
+        "Smart Home System"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-19",
+      "title": "Stunning  Villa Retreat",
+      "type": "Villa",
+      "location": "Los Angeles, CA",
+      "price": 1786404,
+      "images": [
+        "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 6,
+      "bathrooms": 5,
+      "area": 3546,
+      "description": "This stunning  villa retreat is situated in the highly sought-after area of Los Angeles, CA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Swimming Pool",
+        "Rooftop Access",
+        "Central A/C",
+        "Wine Cellar",
+        "Solar Panels",
+        "Gated Community",
+        "Home Theater",
+        "Outdoor Kitchen"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-20",
+      "title": "Peaceful Sky Penthouse Oasis",
+      "type": "Penthouse",
+      "location": "Austin, TX",
+      "price": 2121887,
+      "images": [
+        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 6,
+      "bathrooms": 5,
+      "area": 3012,
+      "description": "This peaceful sky penthouse oasis is situated in the highly sought-after area of Austin, TX. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Smart Home System",
+        "Concierge Service",
+        "Private Dock",
+        "Wine Cellar",
+        "Fireplace",
+        "Swimming Pool",
+        "Outdoor Kitchen"
+      ],
+      "contact": {
+        "name": "Sarah Jenkins",
+        "phone": "+1 (305) 555-0199",
+        "email": "sarah.j@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-21",
+      "title": "Charming  Villa Haven",
+      "type": "Villa",
+      "location": "Los Angeles, CA",
+      "price": 1980767,
+      "images": [
+        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "area": 2480,
+      "description": "This charming  villa haven is situated in the highly sought-after area of Los Angeles, CA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Smart Home System",
+        "Concierge Service",
+        "Solar Panels",
+        "Hardwood Floors",
+        "Swimming Pool",
+        "Fireplace",
+        "Rooftop Access"
+      ],
+      "contact": {
+        "name": "Sarah Jenkins",
+        "phone": "+1 (305) 555-0199",
+        "email": "sarah.j@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-22",
+      "title": "Peaceful Sky Penthouse Haven",
+      "type": "Penthouse",
+      "location": "Miami, FL",
+      "price": 3396473,
+      "images": [
+        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 6,
+      "bathrooms": 6,
+      "area": 2502,
+      "description": "This peaceful sky penthouse haven is situated in the highly sought-after area of Miami, FL. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Swimming Pool",
+        "Central A/C",
+        "Fitness Center",
+        "Smart Home System",
+        "Solar Panels"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-23",
+      "title": "Stunning  Villa Retreat",
+      "type": "Villa",
+      "location": "Denver, CO",
+      "price": 1502808,
+      "images": [
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "area": 2980,
+      "description": "This stunning  villa retreat is situated in the highly sought-after area of Denver, CO. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Garage (2 Cars)",
+        "Home Theater",
+        "Hardwood Floors",
+        "Outdoor Kitchen",
+        "Finished Basement"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-24",
+      "title": "Luxurious Sky Penthouse Manor",
+      "type": "Penthouse",
+      "location": "Chicago, IL",
+      "price": 2170864,
+      "images": [
+        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "area": 2860,
+      "description": "This luxurious sky penthouse manor is situated in the highly sought-after area of Chicago, IL. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Smart Home System",
+        "Private Dock",
+        "Garage (2 Cars)",
+        "Outdoor Kitchen",
+        "Gated Community",
+        "Rooftop Access",
+        "Hardwood Floors",
+        "Central A/C"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-25",
+      "title": "Luxurious  Villa Palace",
+      "type": "Villa",
+      "location": "Boston, MA",
+      "price": 2327180,
+      "images": [
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 1293,
+      "description": "This luxurious  villa palace is situated in the highly sought-after area of Boston, MA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Outdoor Kitchen",
+        "Solar Panels",
+        "Rooftop Access",
+        "Gated Community",
+        "Fitness Center"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-26",
+      "title": "Cozy  Villa Oasis",
+      "type": "Villa",
+      "location": "San Francisco, CA",
+      "price": 1805912,
+      "images": [
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 6,
+      "bathrooms": 5,
+      "area": 3210,
+      "description": "This cozy  villa oasis is situated in the highly sought-after area of San Francisco, CA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Wine Cellar",
+        "Home Theater",
+        "Gated Community",
+        "Swimming Pool",
+        "Garage (2 Cars)",
+        "Finished Basement",
+        "Fitness Center",
+        "Smart Home System"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-27",
+      "title": "Modern Sky Penthouse Palace",
+      "type": "Penthouse",
+      "location": "Seattle, WA",
+      "price": 2320299,
+      "images": [
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 3,
+      "bathrooms": 3.5,
+      "area": 1299,
+      "description": "This modern sky penthouse palace is situated in the highly sought-after area of Seattle, WA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Wine Cellar",
+        "Private Dock",
+        "Gated Community",
+        "Fireplace",
+        "Home Theater",
+        "Finished Basement",
+        "Fitness Center",
+        "Outdoor Kitchen"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-28",
+      "title": "Grand  Villa Residence",
+      "type": "Villa",
+      "location": "New York, NY",
+      "price": 2065545,
+      "images": [
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 5,
+      "bathrooms": 4.5,
+      "area": 2355,
+      "description": "This grand  villa residence is situated in the highly sought-after area of New York, NY. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Private Dock",
+        "Concierge Service",
+        "Outdoor Kitchen",
+        "Fireplace",
+        "Fitness Center",
+        "Rooftop Access",
+        "Finished Basement"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-29",
+      "title": "Peaceful  Townhouse Lodge",
+      "type": "Townhouse",
+      "location": "Boston, MA",
+      "price": 863372,
+      "images": [
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "area": 2568,
+      "description": "This peaceful  townhouse lodge is situated in the highly sought-after area of Boston, MA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Swimming Pool",
+        "Smart Home System",
+        "Solar Panels",
+        "Fireplace",
+        "Finished Basement"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-30",
+      "title": "Scenic Sky Penthouse Pinnacle",
+      "type": "Penthouse",
+      "location": "Los Angeles, CA",
+      "price": 2379387,
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "area": 2400,
+      "description": "This scenic sky penthouse pinnacle is situated in the highly sought-after area of Los Angeles, CA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Outdoor Kitchen",
+        "Wine Cellar",
+        "Hardwood Floors",
+        "Rooftop Access",
+        "Private Dock",
+        "Fitness Center",
+        "Smart Home System"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-31",
+      "title": "Luxurious Sky Penthouse Pinnacle",
+      "type": "Penthouse",
+      "location": "New York, NY",
+      "price": 3601452,
+      "images": [
+        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "area": 2324,
+      "description": "This luxurious sky penthouse pinnacle is situated in the highly sought-after area of New York, NY. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Garage (2 Cars)",
+        "Swimming Pool",
+        "Fireplace",
+        "Smart Home System",
+        "Rooftop Access",
+        "Private Dock",
+        "Finished Basement",
+        "Concierge Service"
+      ],
+      "contact": {
+        "name": "Sarah Jenkins",
+        "phone": "+1 (305) 555-0199",
+        "email": "sarah.j@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-32",
+      "title": "Charming  Townhouse Retreat",
+      "type": "Townhouse",
+      "location": "Miami, FL",
+      "price": 1450415,
+      "images": [
+        "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 6,
+      "bathrooms": 6.5,
+      "area": 2934,
+      "description": "This charming  townhouse retreat is situated in the highly sought-after area of Miami, FL. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Central A/C",
+        "Garage (2 Cars)",
+        "Fireplace",
+        "Private Dock",
+        "Home Theater",
+        "Fitness Center",
+        "Finished Basement",
+        "Smart Home System"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-33",
+      "title": "Peaceful Sky Penthouse Sanctuary",
+      "type": "Penthouse",
+      "location": "Boston, MA",
+      "price": 4123354,
+      "images": [
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "area": 3300,
+      "description": "This peaceful sky penthouse sanctuary is situated in the highly sought-after area of Boston, MA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Garage (2 Cars)",
+        "Rooftop Access",
+        "Home Theater",
+        "Fitness Center",
+        "Concierge Service"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": true
+    },
+    {
+      "id": "prop-34",
+      "title": "Stunning Sky Penthouse Sanctuary",
+      "type": "Penthouse",
+      "location": "Miami, FL",
+      "price": 4157721,
+      "images": [
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 6,
+      "bathrooms": 5,
+      "area": 3630,
+      "description": "This stunning sky penthouse sanctuary is situated in the highly sought-after area of Miami, FL. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Private Dock",
+        "Rooftop Access",
+        "Home Theater",
+        "Outdoor Kitchen",
+        "Concierge Service",
+        "Smart Home System",
+        "Hardwood Floors"
+      ],
+      "contact": {
+        "name": "Sarah Jenkins",
+        "phone": "+1 (305) 555-0199",
+        "email": "sarah.j@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-35",
+      "title": "Modern  House Palace",
+      "type": "House",
+      "location": "Austin, TX",
+      "price": 461086,
+      "images": [
+        "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 6,
+      "bathrooms": 6,
+      "area": 3864,
+      "description": "This modern  house palace is situated in the highly sought-after area of Austin, TX. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Solar Panels",
+        "Rooftop Access",
+        "Hardwood Floors",
+        "Smart Home System",
+        "Swimming Pool",
+        "Finished Basement"
+      ],
+      "contact": {
+        "name": "Sarah Jenkins",
+        "phone": "+1 (305) 555-0199",
+        "email": "sarah.j@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-36",
+      "title": "Grand  Townhouse Manor",
+      "type": "Townhouse",
+      "location": "Seattle, WA",
+      "price": 1371461,
+      "images": [
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area": 1611,
+      "description": "This grand  townhouse manor is situated in the highly sought-after area of Seattle, WA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Private Dock",
+        "Gated Community",
+        "Smart Home System",
+        "Fireplace",
+        "Solar Panels"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-37",
+      "title": "Grand  House Residence",
+      "type": "House",
+      "location": "Los Angeles, CA",
+      "price": 701861,
+      "images": [
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 5,
+      "bathrooms": 4.5,
+      "area": 2745,
+      "description": "This grand  house residence is situated in the highly sought-after area of Los Angeles, CA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Garage (2 Cars)",
+        "Hardwood Floors",
+        "Private Dock",
+        "Gated Community",
+        "Concierge Service",
+        "Fireplace",
+        "Fitness Center"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-38",
+      "title": "Modern  House Manor",
+      "type": "House",
+      "location": "New York, NY",
+      "price": 549506,
+      "images": [
+        "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 6,
+      "bathrooms": 6.5,
+      "area": 2802,
+      "description": "This modern  house manor is situated in the highly sought-after area of New York, NY. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Private Dock",
+        "Fitness Center",
+        "Finished Basement",
+        "Fireplace",
+        "Rooftop Access",
+        "Wine Cellar",
+        "Solar Panels",
+        "Gated Community"
+      ],
+      "contact": {
+        "name": "Sarah Jenkins",
+        "phone": "+1 (305) 555-0199",
+        "email": "sarah.j@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-39",
+      "title": "Charming  Villa Estate",
+      "type": "Villa",
+      "location": "Las Vegas, NV",
+      "price": 2022188,
+      "images": [
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "area": 3140,
+      "description": "This charming  villa estate is situated in the highly sought-after area of Las Vegas, NV. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Solar Panels",
+        "Finished Basement",
+        "Smart Home System",
+        "Private Dock",
+        "Fitness Center",
+        "Fireplace",
+        "Gated Community"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-40",
+      "title": "Luxurious  House Palace",
+      "type": "House",
+      "location": "Chicago, IL",
+      "price": 349979,
+      "images": [
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 6,
+      "bathrooms": 6,
+      "area": 2976,
+      "description": "This luxurious  house palace is situated in the highly sought-after area of Chicago, IL. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Fitness Center",
+        "Garage (2 Cars)",
+        "Home Theater",
+        "Solar Panels",
+        "Private Dock",
+        "Gated Community",
+        "Finished Basement",
+        "Smart Home System"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": true
+    },
+    {
+      "id": "prop-41",
+      "title": "Charming  Villa Residence",
+      "type": "Villa",
+      "location": "Las Vegas, NV",
+      "price": 2043934,
+      "images": [
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 1779,
+      "description": "This charming  villa residence is situated in the highly sought-after area of Las Vegas, NV. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Outdoor Kitchen",
+        "Swimming Pool",
+        "Home Theater",
+        "Fitness Center",
+        "Concierge Service",
+        "Wine Cellar",
+        "Smart Home System",
+        "Solar Panels"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-42",
+      "title": "Cozy  Townhouse Sanctuary",
+      "type": "Townhouse",
+      "location": "San Francisco, CA",
+      "price": 1168143,
+      "images": [
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 3,
+      "bathrooms": 3.5,
+      "area": 1620,
+      "description": "This cozy  townhouse sanctuary is situated in the highly sought-after area of San Francisco, CA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Fireplace",
+        "Home Theater",
+        "Private Dock",
+        "Smart Home System",
+        "Concierge Service"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-43",
+      "title": "Scenic  Townhouse Manor",
+      "type": "Townhouse",
+      "location": "New York, NY",
+      "price": 1207326,
+      "images": [
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "area": 1857,
+      "description": "This scenic  townhouse manor is situated in the highly sought-after area of New York, NY. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Outdoor Kitchen",
+        "Concierge Service",
+        "Fitness Center",
+        "Wine Cellar",
+        "Home Theater"
+      ],
+      "contact": {
+        "name": "Sarah Jenkins",
+        "phone": "+1 (305) 555-0199",
+        "email": "sarah.j@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-44",
+      "title": "Peaceful  Apartment Manor",
+      "type": "Apartment",
+      "location": "Chicago, IL",
+      "price": 380885,
+      "images": [
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 2,
+      "bathrooms": 1.5,
+      "area": 1164,
+      "description": "This peaceful  apartment manor is situated in the highly sought-after area of Chicago, IL. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Outdoor Kitchen",
+        "Fitness Center",
+        "Solar Panels",
+        "Garage (2 Cars)",
+        "Home Theater",
+        "Private Dock"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-45",
+      "title": "Cozy  House Residence",
+      "type": "House",
+      "location": "Seattle, WA",
+      "price": 741814,
+      "images": [
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 6,
+      "bathrooms": 5,
+      "area": 4182,
+      "description": "This cozy  house residence is situated in the highly sought-after area of Seattle, WA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Finished Basement",
+        "Hardwood Floors",
+        "Outdoor Kitchen",
+        "Fitness Center",
+        "Fireplace"
+      ],
+      "contact": {
+        "name": "Sarah Jenkins",
+        "phone": "+1 (305) 555-0199",
+        "email": "sarah.j@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-46",
+      "title": "Peaceful Sky Penthouse Lodge",
+      "type": "Penthouse",
+      "location": "Seattle, WA",
+      "price": 2213938,
+      "images": [
+        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 3,
+      "bathrooms": 3.5,
+      "area": 1260,
+      "description": "This peaceful sky penthouse lodge is situated in the highly sought-after area of Seattle, WA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Home Theater",
+        "Gated Community",
+        "Private Dock",
+        "Rooftop Access",
+        "Smart Home System",
+        "Garage (2 Cars)",
+        "Swimming Pool",
+        "Concierge Service"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-47",
+      "title": "Scenic  Townhouse Palace",
+      "type": "Townhouse",
+      "location": "San Francisco, CA",
+      "price": 1026771,
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 6,
+      "bathrooms": 5,
+      "area": 3612,
+      "description": "This scenic  townhouse palace is situated in the highly sought-after area of San Francisco, CA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Rooftop Access",
+        "Home Theater",
+        "Private Dock",
+        "Gated Community",
+        "Wine Cellar",
+        "Solar Panels",
+        "Fireplace",
+        "Smart Home System"
+      ],
+      "contact": {
+        "name": "Sarah Jenkins",
+        "phone": "+1 (305) 555-0199",
+        "email": "sarah.j@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-48",
+      "title": "Modern  Villa Oasis",
+      "type": "Villa",
+      "location": "New York, NY",
+      "price": 2500413,
+      "images": [
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 6,
+      "bathrooms": 5.5,
+      "area": 2862,
+      "description": "This modern  villa oasis is situated in the highly sought-after area of New York, NY. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Fitness Center",
+        "Home Theater",
+        "Solar Panels",
+        "Wine Cellar",
+        "Smart Home System",
+        "Central A/C"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-49",
+      "title": "Scenic  Townhouse Haven",
+      "type": "Townhouse",
+      "location": "Denver, CO",
+      "price": 1558113,
+      "images": [
+        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "area": 2930,
+      "description": "This scenic  townhouse haven is situated in the highly sought-after area of Denver, CO. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Fitness Center",
+        "Outdoor Kitchen",
+        "Solar Panels",
+        "Gated Community",
+        "Wine Cellar"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-50",
+      "title": "Scenic  Apartment Lodge",
+      "type": "Apartment",
+      "location": "Austin, TX",
+      "price": 408984,
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area": 1755,
+      "description": "This scenic  apartment lodge is situated in the highly sought-after area of Austin, TX. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Smart Home System",
+        "Central A/C",
+        "Home Theater",
+        "Finished Basement",
+        "Wine Cellar",
+        "Private Dock",
+        "Concierge Service",
+        "Garage (2 Cars)"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-51",
+      "title": "Stunning  Apartment Oasis",
+      "type": "Apartment",
+      "location": "New York, NY",
+      "price": 486259,
+      "images": [
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area": 1863,
+      "description": "This stunning  apartment oasis is situated in the highly sought-after area of New York, NY. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Fireplace",
+        "Rooftop Access",
+        "Concierge Service",
+        "Private Dock",
+        "Fitness Center"
+      ],
+      "contact": {
+        "name": "Sarah Jenkins",
+        "phone": "+1 (305) 555-0199",
+        "email": "sarah.j@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-52",
+      "title": "Sleek Sky Penthouse Retreat",
+      "type": "Penthouse",
+      "location": "Austin, TX",
+      "price": 2624700,
+      "images": [
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area": 1476,
+      "description": "This sleek sky penthouse retreat is situated in the highly sought-after area of Austin, TX. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Central A/C",
+        "Swimming Pool",
+        "Smart Home System",
+        "Outdoor Kitchen",
+        "Gated Community",
+        "Fireplace"
+      ],
+      "contact": {
+        "name": "Sarah Jenkins",
+        "phone": "+1 (305) 555-0199",
+        "email": "sarah.j@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-53",
+      "title": "Charming  Townhouse Manor",
+      "type": "Townhouse",
+      "location": "Miami, FL",
+      "price": 1274381,
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "area": 2010,
+      "description": "This charming  townhouse manor is situated in the highly sought-after area of Miami, FL. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Finished Basement",
+        "Rooftop Access",
+        "Swimming Pool",
+        "Fitness Center",
+        "Fireplace",
+        "Smart Home System",
+        "Garage (2 Cars)",
+        "Private Dock"
+      ],
+      "contact": {
+        "name": "Sarah Jenkins",
+        "phone": "+1 (305) 555-0199",
+        "email": "sarah.j@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-54",
+      "title": "Modern  Apartment Pinnacle",
+      "type": "Apartment",
+      "location": "San Francisco, CA",
+      "price": 682003,
+      "images": [
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 2,
+      "bathrooms": 2.5,
+      "area": 1074,
+      "description": "This modern  apartment pinnacle is situated in the highly sought-after area of San Francisco, CA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Garage (2 Cars)",
+        "Solar Panels",
+        "Home Theater",
+        "Finished Basement",
+        "Concierge Service"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-55",
+      "title": "Stunning Sky Penthouse Palace",
+      "type": "Penthouse",
+      "location": "San Francisco, CA",
+      "price": 2889595,
+      "images": [
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area": 2576,
+      "description": "This stunning sky penthouse palace is situated in the highly sought-after area of San Francisco, CA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Smart Home System",
+        "Gated Community",
+        "Finished Basement",
+        "Wine Cellar",
+        "Solar Panels",
+        "Outdoor Kitchen",
+        "Hardwood Floors",
+        "Concierge Service"
+      ],
+      "contact": {
+        "name": "Sarah Jenkins",
+        "phone": "+1 (305) 555-0199",
+        "email": "sarah.j@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-56",
+      "title": "Stunning  House Oasis",
+      "type": "House",
+      "location": "San Francisco, CA",
+      "price": 688949,
+      "images": [
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area": 2520,
+      "description": "This stunning  house oasis is situated in the highly sought-after area of San Francisco, CA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Rooftop Access",
+        "Smart Home System",
+        "Finished Basement",
+        "Outdoor Kitchen",
+        "Private Dock",
+        "Fitness Center",
+        "Solar Panels"
+      ],
+      "contact": {
+        "name": "Sarah Jenkins",
+        "phone": "+1 (305) 555-0199",
+        "email": "sarah.j@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-57",
+      "title": "Elegant  Townhouse Palace",
+      "type": "Townhouse",
+      "location": "Los Angeles, CA",
+      "price": 862624,
+      "images": [
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "area": 2525,
+      "description": "This elegant  townhouse palace is situated in the highly sought-after area of Los Angeles, CA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Fireplace",
+        "Home Theater",
+        "Finished Basement",
+        "Smart Home System",
+        "Swimming Pool",
+        "Private Dock"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-58",
+      "title": "Modern  House Sanctuary",
+      "type": "House",
+      "location": "Las Vegas, NV",
+      "price": 438907,
+      "images": [
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 6,
+      "bathrooms": 6.5,
+      "area": 3942,
+      "description": "This modern  house sanctuary is situated in the highly sought-after area of Las Vegas, NV. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Home Theater",
+        "Private Dock",
+        "Wine Cellar",
+        "Central A/C",
+        "Smart Home System"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-59",
+      "title": "Sleek  House Lodge",
+      "type": "House",
+      "location": "New York, NY",
+      "price": 339819,
+      "images": [
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "area": 3250,
+      "description": "This sleek  house lodge is situated in the highly sought-after area of New York, NY. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Fitness Center",
+        "Home Theater",
+        "Garage (2 Cars)",
+        "Solar Panels",
+        "Smart Home System",
+        "Swimming Pool",
+        "Central A/C"
+      ],
+      "contact": {
+        "name": "Sarah Jenkins",
+        "phone": "+1 (305) 555-0199",
+        "email": "sarah.j@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-60",
+      "title": "Cozy  Apartment Oasis",
+      "type": "Apartment",
+      "location": "Denver, CO",
+      "price": 362383,
+      "images": [
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area": 649,
+      "description": "This cozy  apartment oasis is situated in the highly sought-after area of Denver, CO. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Wine Cellar",
+        "Fitness Center",
+        "Home Theater",
+        "Garage (2 Cars)",
+        "Finished Basement",
+        "Private Dock",
+        "Smart Home System",
+        "Rooftop Access"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": true
+    },
+    {
+      "id": "prop-61",
+      "title": "Stunning Sky Penthouse Residence",
+      "type": "Penthouse",
+      "location": "New York, NY",
+      "price": 2615153,
+      "images": [
+        "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 5,
+      "bathrooms": 5,
+      "area": 3335,
+      "description": "This stunning sky penthouse residence is situated in the highly sought-after area of New York, NY. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Fireplace",
+        "Solar Panels",
+        "Swimming Pool",
+        "Smart Home System",
+        "Private Dock"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": true
+    },
+    {
+      "id": "prop-62",
+      "title": "Cozy  Villa Manor",
+      "type": "Villa",
+      "location": "Boston, MA",
+      "price": 3229428,
+      "images": [
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 4,
+      "bathrooms": 4.5,
+      "area": 1768,
+      "description": "This cozy  villa manor is situated in the highly sought-after area of Boston, MA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Smart Home System",
+        "Hardwood Floors",
+        "Fitness Center",
+        "Central A/C",
+        "Gated Community"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-63",
+      "title": "Peaceful  House Palace",
+      "type": "House",
+      "location": "Los Angeles, CA",
+      "price": 766729,
+      "images": [
+        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 3,
+      "bathrooms": 3.5,
+      "area": 1227,
+      "description": "This peaceful  house palace is situated in the highly sought-after area of Los Angeles, CA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Swimming Pool",
+        "Solar Panels",
+        "Smart Home System",
+        "Wine Cellar",
+        "Gated Community",
+        "Central A/C"
+      ],
+      "contact": {
+        "name": "Sarah Jenkins",
+        "phone": "+1 (305) 555-0199",
+        "email": "sarah.j@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-64",
+      "title": "Scenic  House Haven",
+      "type": "House",
+      "location": "Miami, FL",
+      "price": 763916,
+      "images": [
+        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "area": 1760,
+      "description": "This scenic  house haven is situated in the highly sought-after area of Miami, FL. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Private Dock",
+        "Swimming Pool",
+        "Finished Basement",
+        "Rooftop Access",
+        "Home Theater",
+        "Solar Panels",
+        "Fitness Center"
+      ],
+      "contact": {
+        "name": "Sarah Jenkins",
+        "phone": "+1 (305) 555-0199",
+        "email": "sarah.j@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": true
+    },
+    {
+      "id": "prop-65",
+      "title": "Modern  Villa Oasis",
+      "type": "Villa",
+      "location": "Austin, TX",
+      "price": 2229971,
+      "images": [
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area": 1200,
+      "description": "This modern  villa oasis is situated in the highly sought-after area of Austin, TX. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Home Theater",
+        "Swimming Pool",
+        "Finished Basement",
+        "Fireplace",
+        "Outdoor Kitchen",
+        "Wine Cellar"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-66",
+      "title": "Charming  House Haven",
+      "type": "House",
+      "location": "Seattle, WA",
+      "price": 738374,
+      "images": [
+        "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "area": 1876,
+      "description": "This charming  house haven is situated in the highly sought-after area of Seattle, WA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Swimming Pool",
+        "Solar Panels",
+        "Fitness Center",
+        "Finished Basement",
+        "Smart Home System",
+        "Private Dock",
+        "Central A/C",
+        "Home Theater"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-67",
+      "title": "Peaceful  House Retreat",
+      "type": "House",
+      "location": "Austin, TX",
+      "price": 409929,
+      "images": [
+        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area": 1365,
+      "description": "This peaceful  house retreat is situated in the highly sought-after area of Austin, TX. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Fitness Center",
+        "Central A/C",
+        "Wine Cellar",
+        "Private Dock",
+        "Home Theater",
+        "Concierge Service",
+        "Garage (2 Cars)",
+        "Gated Community"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-68",
+      "title": "Charming  Apartment Manor",
+      "type": "Apartment",
+      "location": "Los Angeles, CA",
+      "price": 472750,
+      "images": [
+        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area": 984,
+      "description": "This charming  apartment manor is situated in the highly sought-after area of Los Angeles, CA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Finished Basement",
+        "Wine Cellar",
+        "Outdoor Kitchen",
+        "Hardwood Floors",
+        "Fitness Center"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-69",
+      "title": "Peaceful Sky Penthouse Estate",
+      "type": "Penthouse",
+      "location": "Austin, TX",
+      "price": 2931913,
+      "images": [
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 5,
+      "bathrooms": 5,
+      "area": 2975,
+      "description": "This peaceful sky penthouse estate is situated in the highly sought-after area of Austin, TX. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Fitness Center",
+        "Swimming Pool",
+        "Solar Panels",
+        "Home Theater",
+        "Outdoor Kitchen",
+        "Wine Cellar",
+        "Smart Home System",
+        "Private Dock"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-70",
+      "title": "Cozy  Townhouse Oasis",
+      "type": "Townhouse",
+      "location": "Las Vegas, NV",
+      "price": 877861,
+      "images": [
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "area": 2070,
+      "description": "This cozy  townhouse oasis is situated in the highly sought-after area of Las Vegas, NV. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Solar Panels",
+        "Fireplace",
+        "Finished Basement",
+        "Garage (2 Cars)",
+        "Fitness Center",
+        "Wine Cellar"
+      ],
+      "contact": {
+        "name": "Sarah Jenkins",
+        "phone": "+1 (305) 555-0199",
+        "email": "sarah.j@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-71",
+      "title": "Luxurious  Villa Estate",
+      "type": "Villa",
+      "location": "Denver, CO",
+      "price": 1588014,
+      "images": [
+        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 1437,
+      "description": "This luxurious  villa estate is situated in the highly sought-after area of Denver, CO. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Solar Panels",
+        "Garage (2 Cars)",
+        "Rooftop Access",
+        "Private Dock",
+        "Gated Community",
+        "Home Theater"
+      ],
+      "contact": {
+        "name": "Sarah Jenkins",
+        "phone": "+1 (305) 555-0199",
+        "email": "sarah.j@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-72",
+      "title": "Sleek  House Residence",
+      "type": "House",
+      "location": "Miami, FL",
+      "price": 706650,
+      "images": [
+        "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area": 1959,
+      "description": "This sleek  house residence is situated in the highly sought-after area of Miami, FL. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Private Dock",
+        "Outdoor Kitchen",
+        "Swimming Pool",
+        "Finished Basement",
+        "Fitness Center",
+        "Rooftop Access",
+        "Fireplace"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-73",
+      "title": "Charming Sky Penthouse Manor",
+      "type": "Penthouse",
+      "location": "Seattle, WA",
+      "price": 4114932,
+      "images": [
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 5,
+      "bathrooms": 5,
+      "area": 2460,
+      "description": "This charming sky penthouse manor is situated in the highly sought-after area of Seattle, WA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Wine Cellar",
+        "Smart Home System",
+        "Rooftop Access",
+        "Home Theater",
+        "Concierge Service",
+        "Private Dock"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-74",
+      "title": "Elegant  House Haven",
+      "type": "House",
+      "location": "Los Angeles, CA",
+      "price": 797886,
+      "images": [
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 6,
+      "bathrooms": 5,
+      "area": 3360,
+      "description": "This elegant  house haven is situated in the highly sought-after area of Los Angeles, CA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Outdoor Kitchen",
+        "Swimming Pool",
+        "Smart Home System",
+        "Fitness Center",
+        "Private Dock",
+        "Concierge Service"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-75",
+      "title": "Sleek  House Oasis",
+      "type": "House",
+      "location": "New York, NY",
+      "price": 773456,
+      "images": [
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "area": 2700,
+      "description": "This sleek  house oasis is situated in the highly sought-after area of New York, NY. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Swimming Pool",
+        "Fireplace",
+        "Solar Panels",
+        "Finished Basement",
+        "Hardwood Floors",
+        "Smart Home System"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-76",
+      "title": "Modern Sky Penthouse Pinnacle",
+      "type": "Penthouse",
+      "location": "San Francisco, CA",
+      "price": 3470529,
+      "images": [
+        "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area": 1720,
+      "description": "This modern sky penthouse pinnacle is situated in the highly sought-after area of San Francisco, CA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Fireplace",
+        "Swimming Pool",
+        "Garage (2 Cars)",
+        "Smart Home System",
+        "Wine Cellar",
+        "Gated Community"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-77",
+      "title": "Modern  House Lodge",
+      "type": "House",
+      "location": "Chicago, IL",
+      "price": 766937,
+      "images": [
+        "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "area": 2068,
+      "description": "This modern  house lodge is situated in the highly sought-after area of Chicago, IL. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Home Theater",
+        "Gated Community",
+        "Rooftop Access",
+        "Fitness Center",
+        "Swimming Pool",
+        "Fireplace"
+      ],
+      "contact": {
+        "name": "Sarah Jenkins",
+        "phone": "+1 (305) 555-0199",
+        "email": "sarah.j@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-78",
+      "title": "Grand  House Lodge",
+      "type": "House",
+      "location": "Boston, MA",
+      "price": 615597,
+      "images": [
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 1629,
+      "description": "This grand  house lodge is situated in the highly sought-after area of Boston, MA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Gated Community",
+        "Home Theater",
+        "Swimming Pool",
+        "Solar Panels",
+        "Central A/C",
+        "Private Dock",
+        "Wine Cellar"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-79",
+      "title": "Modern  House Haven",
+      "type": "House",
+      "location": "Los Angeles, CA",
+      "price": 543037,
+      "images": [
+        "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 6,
+      "bathrooms": 6.5,
+      "area": 2712,
+      "description": "This modern  house haven is situated in the highly sought-after area of Los Angeles, CA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Wine Cellar",
+        "Outdoor Kitchen",
+        "Private Dock",
+        "Finished Basement",
+        "Central A/C",
+        "Concierge Service"
+      ],
+      "contact": {
+        "name": "Sarah Jenkins",
+        "phone": "+1 (305) 555-0199",
+        "email": "sarah.j@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-80",
+      "title": "Cozy  Apartment Palace",
+      "type": "Apartment",
+      "location": "Miami, FL",
+      "price": 528804,
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "area": 1222,
+      "description": "This cozy  apartment palace is situated in the highly sought-after area of Miami, FL. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Central A/C",
+        "Solar Panels",
+        "Fitness Center",
+        "Home Theater",
+        "Swimming Pool",
+        "Wine Cellar"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-81",
+      "title": "Charming  Villa Pinnacle",
+      "type": "Villa",
+      "location": "New York, NY",
+      "price": 3393859,
+      "images": [
+        "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 5,
+      "bathrooms": 5,
+      "area": 2150,
+      "description": "This charming  villa pinnacle is situated in the highly sought-after area of New York, NY. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Solar Panels",
+        "Home Theater",
+        "Concierge Service",
+        "Gated Community",
+        "Swimming Pool"
+      ],
+      "contact": {
+        "name": "Sarah Jenkins",
+        "phone": "+1 (305) 555-0199",
+        "email": "sarah.j@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-82",
+      "title": "Cozy Sky Penthouse Lodge",
+      "type": "Penthouse",
+      "location": "New York, NY",
+      "price": 2474802,
+      "images": [
+        "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "area": 2056,
+      "description": "This cozy sky penthouse lodge is situated in the highly sought-after area of New York, NY. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Rooftop Access",
+        "Central A/C",
+        "Smart Home System",
+        "Fitness Center",
+        "Garage (2 Cars)",
+        "Swimming Pool"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-83",
+      "title": "Modern  House Sanctuary",
+      "type": "House",
+      "location": "Seattle, WA",
+      "price": 753758,
+      "images": [
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 5,
+      "bathrooms": 5,
+      "area": 2230,
+      "description": "This modern  house sanctuary is situated in the highly sought-after area of Seattle, WA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Home Theater",
+        "Garage (2 Cars)",
+        "Fireplace",
+        "Outdoor Kitchen",
+        "Concierge Service",
+        "Private Dock",
+        "Hardwood Floors"
+      ],
+      "contact": {
+        "name": "Sarah Jenkins",
+        "phone": "+1 (305) 555-0199",
+        "email": "sarah.j@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-84",
+      "title": "Grand  Apartment Residence",
+      "type": "Apartment",
+      "location": "Denver, CO",
+      "price": 323720,
+      "images": [
+        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area": 1250,
+      "description": "This grand  apartment residence is situated in the highly sought-after area of Denver, CO. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Gated Community",
+        "Swimming Pool",
+        "Smart Home System",
+        "Home Theater",
+        "Private Dock",
+        "Central A/C"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-85",
+      "title": "Grand  House Pinnacle",
+      "type": "House",
+      "location": "San Francisco, CA",
+      "price": 457213,
+      "images": [
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 3,
+      "bathrooms": 3.5,
+      "area": 1464,
+      "description": "This grand  house pinnacle is situated in the highly sought-after area of San Francisco, CA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Solar Panels",
+        "Outdoor Kitchen",
+        "Private Dock",
+        "Garage (2 Cars)",
+        "Home Theater",
+        "Rooftop Access",
+        "Hardwood Floors"
+      ],
+      "contact": {
+        "name": "Sarah Jenkins",
+        "phone": "+1 (305) 555-0199",
+        "email": "sarah.j@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-86",
+      "title": "Stunning Sky Penthouse Oasis",
+      "type": "Penthouse",
+      "location": "Miami, FL",
+      "price": 3506704,
+      "images": [
+        "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "area": 2308,
+      "description": "This stunning sky penthouse oasis is situated in the highly sought-after area of Miami, FL. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Swimming Pool",
+        "Finished Basement",
+        "Garage (2 Cars)",
+        "Smart Home System",
+        "Hardwood Floors",
+        "Private Dock",
+        "Home Theater"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": true
+    },
+    {
+      "id": "prop-87",
+      "title": "Luxurious  Townhouse Pinnacle",
+      "type": "Townhouse",
+      "location": "Las Vegas, NV",
+      "price": 1559819,
+      "images": [
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 3,
+      "bathrooms": 3.5,
+      "area": 1518,
+      "description": "This luxurious  townhouse pinnacle is situated in the highly sought-after area of Las Vegas, NV. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Central A/C",
+        "Swimming Pool",
+        "Smart Home System",
+        "Rooftop Access",
+        "Gated Community",
+        "Outdoor Kitchen",
+        "Concierge Service"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": true
+    },
+    {
+      "id": "prop-88",
+      "title": "Stunning  Townhouse Residence",
+      "type": "Townhouse",
+      "location": "Los Angeles, CA",
+      "price": 1291335,
+      "images": [
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area": 2344,
+      "description": "This stunning  townhouse residence is situated in the highly sought-after area of Los Angeles, CA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Central A/C",
+        "Private Dock",
+        "Rooftop Access",
+        "Smart Home System",
+        "Garage (2 Cars)",
+        "Home Theater",
+        "Concierge Service"
+      ],
+      "contact": {
+        "name": "Sarah Jenkins",
+        "phone": "+1 (305) 555-0199",
+        "email": "sarah.j@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-89",
+      "title": "Stunning  Townhouse Oasis",
+      "type": "Townhouse",
+      "location": "Los Angeles, CA",
+      "price": 1434466,
+      "images": [
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 5,
+      "bathrooms": 5.5,
+      "area": 3060,
+      "description": "This stunning  townhouse oasis is situated in the highly sought-after area of Los Angeles, CA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Swimming Pool",
+        "Smart Home System",
+        "Outdoor Kitchen",
+        "Hardwood Floors",
+        "Rooftop Access",
+        "Fitness Center"
+      ],
+      "contact": {
+        "name": "Sarah Jenkins",
+        "phone": "+1 (305) 555-0199",
+        "email": "sarah.j@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-90",
+      "title": "Modern  Townhouse Sanctuary",
+      "type": "Townhouse",
+      "location": "Miami, FL",
+      "price": 1331934,
+      "images": [
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 1821,
+      "description": "This modern  townhouse sanctuary is situated in the highly sought-after area of Miami, FL. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Hardwood Floors",
+        "Home Theater",
+        "Swimming Pool",
+        "Wine Cellar",
+        "Smart Home System",
+        "Private Dock"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-91",
+      "title": "Sleek  Townhouse Lodge",
+      "type": "Townhouse",
+      "location": "Seattle, WA",
+      "price": 1489119,
+      "images": [
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area": 1996,
+      "description": "This sleek  townhouse lodge is situated in the highly sought-after area of Seattle, WA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Private Dock",
+        "Home Theater",
+        "Fireplace",
+        "Swimming Pool",
+        "Hardwood Floors"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": true
+    },
+    {
+      "id": "prop-92",
+      "title": "Stunning  Villa Sanctuary",
+      "type": "Villa",
+      "location": "Chicago, IL",
+      "price": 2644842,
+      "images": [
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "area": 3190,
+      "description": "This stunning  villa sanctuary is situated in the highly sought-after area of Chicago, IL. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Smart Home System",
+        "Fitness Center",
+        "Swimming Pool",
+        "Home Theater",
+        "Private Dock"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-93",
+      "title": "Stunning  Villa Oasis",
+      "type": "Villa",
+      "location": "New York, NY",
+      "price": 3053718,
+      "images": [
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 5,
+      "bathrooms": 5.5,
+      "area": 2110,
+      "description": "This stunning  villa oasis is situated in the highly sought-after area of New York, NY. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Swimming Pool",
+        "Fitness Center",
+        "Garage (2 Cars)",
+        "Gated Community",
+        "Solar Panels",
+        "Concierge Service",
+        "Rooftop Access",
+        "Outdoor Kitchen"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-94",
+      "title": "Charming Sky Penthouse Sanctuary",
+      "type": "Penthouse",
+      "location": "Denver, CO",
+      "price": 2521349,
+      "images": [
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area": 1257,
+      "description": "This charming sky penthouse sanctuary is situated in the highly sought-after area of Denver, CO. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Rooftop Access",
+        "Hardwood Floors",
+        "Swimming Pool",
+        "Fireplace",
+        "Gated Community"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-95",
+      "title": "Sleek  Apartment Haven",
+      "type": "Apartment",
+      "location": "San Francisco, CA",
+      "price": 751278,
+      "images": [
+        "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area": 567,
+      "description": "This sleek  apartment haven is situated in the highly sought-after area of San Francisco, CA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Gated Community",
+        "Wine Cellar",
+        "Finished Basement",
+        "Swimming Pool",
+        "Solar Panels",
+        "Garage (2 Cars)",
+        "Private Dock",
+        "Hardwood Floors"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-96",
+      "title": "Modern  Villa Sanctuary",
+      "type": "Villa",
+      "location": "New York, NY",
+      "price": 1736249,
+      "images": [
+        "https://images.unsplash.com/photo-1518780664697-55e3ad937233?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area": 1245,
+      "description": "This modern  villa sanctuary is situated in the highly sought-after area of New York, NY. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Hardwood Floors",
+        "Rooftop Access",
+        "Home Theater",
+        "Outdoor Kitchen",
+        "Fitness Center",
+        "Finished Basement"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-97",
+      "title": "Scenic  Townhouse Estate",
+      "type": "Townhouse",
+      "location": "Seattle, WA",
+      "price": 1487481,
+      "images": [
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "area": 2388,
+      "description": "This scenic  townhouse estate is situated in the highly sought-after area of Seattle, WA. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Smart Home System",
+        "Hardwood Floors",
+        "Home Theater",
+        "Solar Panels",
+        "Gated Community",
+        "Concierge Service",
+        "Garage (2 Cars)",
+        "Fitness Center"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": true
+    },
+    {
+      "id": "prop-98",
+      "title": "Sleek  Villa Estate",
+      "type": "Villa",
+      "location": "Denver, CO",
+      "price": 2598491,
+      "images": [
+        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "area": 3235,
+      "description": "This sleek  villa estate is situated in the highly sought-after area of Denver, CO. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Concierge Service",
+        "Solar Panels",
+        "Smart Home System",
+        "Rooftop Access",
+        "Wine Cellar",
+        "Outdoor Kitchen"
+      ],
+      "contact": {
+        "name": "Marcus Vance",
+        "phone": "+1 (212) 555-0142",
+        "email": "marcus.v@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-99",
+      "title": "Scenic  Villa Oasis",
+      "type": "Villa",
+      "location": "Las Vegas, NV",
+      "price": 3397791,
+      "images": [
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 4,
+      "bathrooms": 4.5,
+      "area": 2660,
+      "description": "This scenic  villa oasis is situated in the highly sought-after area of Las Vegas, NV. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Smart Home System",
+        "Garage (2 Cars)",
+        "Home Theater",
+        "Fireplace",
+        "Fitness Center"
+      ],
+      "contact": {
+        "name": "Elena Rostova",
+        "phone": "+1 (206) 555-0188",
+        "email": "elena.r@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    },
+    {
+      "id": "prop-100",
+      "title": "Charming Sky Penthouse Retreat",
+      "type": "Penthouse",
+      "location": "New York, NY",
+      "price": 3162613,
+      "images": [
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 2082,
+      "description": "This charming sky penthouse retreat is situated in the highly sought-after area of New York, NY. Built with precision and boasting top-of-the-line architectural finishes, it offers a perfect combination of style, comfort, and convenience. Enjoy scenic views, spacious living areas, and close proximity to local amenities.",
+      "amenities": [
+        "Central A/C",
+        "Solar Panels",
+        "Rooftop Access",
+        "Smart Home System",
+        "Fireplace",
+        "Home Theater",
+        "Wine Cellar"
+      ],
+      "contact": {
+        "name": "Sarah Jenkins",
+        "phone": "+1 (305) 555-0199",
+        "email": "sarah.j@homenest.com",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80"
+      },
+      "featured": false
+    }
+  ]
+}
