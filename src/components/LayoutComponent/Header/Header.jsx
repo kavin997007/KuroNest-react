@@ -27,12 +27,16 @@ const Header = () => {
           <NavLink to="/" className={({ isActive }) => isActive ? "nav-link active" : "nav-link"}>
             Home
           </NavLink>
-          <a href="#featured" className="nav-link">Featured</a>
-          <a href="#about" className="nav-link">About Us</a>
+          <NavLink to="/featured" className={({ isActive }) => isActive ? "nav-link active" : "nav-link"}>
+            Featured
+          </NavLink>
+          <NavLink to="/about" className={({ isActive }) => isActive ? "nav-link active" : "nav-link"}>
+            About Us
+          </NavLink>
         </nav>
 
         <div className="header-actions">
-          <button className="btn btn-primary contact-btn-header">Contact Agent</button>
+          <Link to="/contact" className="btn btn-primary contact-btn-header">Contact Agent</Link>
           <button className="mobile-menu-toggle" onClick={toggleMobileMenu} aria-label="Toggle menu">
             {mobileMenuOpen ? (
               <svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round">
@@ -57,9 +61,13 @@ const Header = () => {
             <NavLink to="/" className="nav-link" onClick={() => setMobileMenuOpen(false)}>
               Home
             </NavLink>
-            <a href="#featured" className="nav-link" onClick={() => setMobileMenuOpen(false)}>Featured</a>
-            <a href="#about" className="nav-link" onClick={() => setMobileMenuOpen(false)}>About Us</a>
-            <button className="btn btn-primary w-full" onClick={() => setMobileMenuOpen(false)}>Contact Agent</button>
+            <NavLink to="/featured" className="nav-link" onClick={() => setMobileMenuOpen(false)}>
+              Featured
+            </NavLink>
+            <NavLink to="/about" className="nav-link" onClick={() => setMobileMenuOpen(false)}>
+              About Us
+            </NavLink>
+            <Link to="/contact" className="btn btn-primary w-full" onClick={() => setMobileMenuOpen(false)}>Contact Agent</Link>
           </nav>
         </div>
       )}

@@ -1,0 +1,251 @@
+/* Contact Hero Banner */
+.contact-hero {
+  position: relative;
+  height: 380px;
+  background-image: url('https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1800&q=80');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  color: white;
+  margin-bottom: 60px;
+}
+
+.contact-hero-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, rgba(15, 23, 42, 0.95) 0%, rgba(10, 77, 60, 0.8) 100%);
+  z-index: 1;
+}
+
+.contact-hero-content {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.contact-hero-content h1 {
+  font-size: 46px;
+  font-weight: 800;
+  color: white;
+  margin-bottom: 16px;
+  letter-spacing: -1.5px;
+}
+
+.contact-hero-content p {
+  font-size: 18px;
+  color: #cbd5e1;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+/* Contact Form Styling */
+.contact-main-form {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-bottom: 16px;
+  width: 100%;
+}
+
+.form-group label {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-main);
+  text-align: left;
+}
+
+.form-group input,
+.form-group select,
+.form-group textarea {
+  padding: 11px 14px;
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius-sm);
+  font-size: 14px;
+  background-color: #fafafa;
+  transition: all 0.2s;
+  width: 100%;
+}
+
+.form-group input:focus,
+.form-group select:focus,
+.form-group textarea:focus {
+  border-color: var(--primary);
+  background-color: white;
+}
+
+/* Page Layout */
+.contact-section {
+  margin-bottom: 100px;
+}
+
+.contact-grid {
+  display: grid;
+  grid-template-columns: 1.8fr 1fr;
+  gap: 40px;
+}
+
+/* Form Side Card */
+.contact-form-card {
+  background-color: white;
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius-md);
+  padding: 40px;
+  box-shadow: var(--shadow-sm);
+}
+
+.contact-form-card h2 {
+  font-size: 28px;
+  margin-bottom: 8px;
+}
+
+.form-subtitle {
+  color: var(--text-muted);
+  font-size: 14px;
+  margin-bottom: 30px;
+}
+
+.form-row-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.contact-submit-btn {
+  padding: 14px;
+  margin-top: 10px;
+}
+
+.contact-success-wrap {
+  padding: 60px 20px;
+}
+
+.contact-success-wrap h3 {
+  font-size: 22px;
+  margin-bottom: 8px;
+}
+
+/* Sidebar Info Panel */
+.contact-sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.general-office-widget {
+  background-color: white;
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius-md);
+  padding: 30px;
+  box-shadow: var(--shadow-sm);
+}
+
+.general-office-widget h3 {
+  font-size: 18px;
+  margin-bottom: 16px;
+  color: var(--bg-dark);
+  border-bottom: 2px solid var(--primary-light);
+  padding-bottom: 8px;
+}
+
+.general-office-widget p {
+  font-size: 14px;
+  color: var(--text-main);
+  margin-bottom: 10px;
+  font-weight: 500;
+}
+
+.general-office-widget p:last-child {
+  margin-bottom: 0;
+}
+
+/* Advisors directory Widget */
+.advisors-directory-widget {
+  background-color: white;
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius-md);
+  padding: 30px;
+  box-shadow: var(--shadow-sm);
+}
+
+.advisors-directory-widget h3 {
+  font-size: 18px;
+  margin-bottom: 20px;
+  color: var(--bg-dark);
+  border-bottom: 2px solid var(--primary-light);
+  padding-bottom: 8px;
+}
+
+.advisors-list {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.advisor-directory-item {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.advisor-avatar-sm {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid var(--primary-light);
+}
+
+.advisor-details-sm h4 {
+  font-size: 15px;
+  font-weight: 700;
+  margin-bottom: 2px;
+}
+
+.advisor-region-sm {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--primary);
+  display: block;
+  margin-bottom: 4px;
+}
+
+.advisor-contact-text {
+  font-size: 12px;
+  color: var(--text-muted);
+  line-height: 1.4;
+}
+
+/* Responsiveness adjustments */
+@media (max-width: 992px) {
+  .contact-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  .contact-hero {
+    height: 300px;
+  }
+  .contact-hero-content h1 {
+    font-size: 32px;
+  }
+  .form-row-2 {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+  .contact-form-card {
+    padding: 24px;
+  }
+}

@@ -1,0 +1,111 @@
+/* Featured Page Hero Section */
+.featured-hero {
+  position: relative;
+  height: 400px;
+  background-image: url('https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1800&q=80');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  color: white;
+  margin-bottom: 60px;
+}
+
+.featured-hero-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, rgba(15, 23, 42, 0.95) 0%, rgba(10, 77, 60, 0.75) 100%);
+  z-index: 1;
+}
+
+.featured-hero-content {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.gold-badge {
+  background-color: var(--secondary);
+  color: var(--bg-dark);
+  padding: 6px 16px;
+  border-radius: 20px;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 16px;
+  box-shadow: 0 4px 10px rgba(212, 175, 55, 0.25);
+}
+
+.featured-hero-content h1 {
+  font-size: 46px;
+  font-weight: 800;
+  color: white;
+  margin-bottom: 16px;
+  letter-spacing: -1.5px;
+  line-height: 1.2;
+}
+
+.featured-hero-content p {
+  font-size: 16px;
+  color: #cbd5e1;
+  max-width: 600px;
+  line-height: 1.6;
+}
+
+/* Grid Catalog section */
+.featured-grid-section {
+  margin-bottom: 100px;
+}
+
+.featured-count-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 32px;
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 20px;
+}
+
+.featured-count-row h2 {
+  font-size: 26px;
+  font-weight: 800;
+}
+
+.count-badge {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--primary);
+  background-color: var(--primary-light);
+  padding: 6px 14px;
+  border-radius: 20px;
+}
+
+.featured-state-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 300px;
+}
+
+@media (max-width: 768px) {
+  .featured-hero {
+    height: 300px;
+  }
+  .featured-hero-content h1 {
+    font-size: 32px;
+  }
+  .featured-count-row {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+  }
+}

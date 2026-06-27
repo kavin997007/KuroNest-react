@@ -7,6 +7,9 @@ import Loader from './components/Loader.jsx';
 // Code Splitting with lazy imports
 const Home = lazy(() => import('./Pages/Home/index.jsx'));
 const PropertyDetails = lazy(() => import('./Pages/PropertyDetails/index.jsx'));
+const Featured = lazy(() => import('./Pages/Featured/index.jsx'));
+const About = lazy(() => import('./Pages/About/index.jsx'));
+const Contact = lazy(() => import('./Pages/Contact/index.jsx'));
 
 const App = () => {
   return (
@@ -23,6 +26,9 @@ const App = () => {
             <Routes>
               <Route path="/" element={<Home />} />
               <Route path="/property/:id" element={<PropertyDetails />} />
+              <Route path="/featured" element={<Featured />} />
+              <Route path="/about" element={<About />} />
+              <Route path="/contact" element={<Contact />} />
             </Routes>
           </Suspense>
         </main>
