@@ -1,40 +1,52 @@
 import React, { Suspense, lazy } from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Header from './components/LayoutComponent/Header/Header.jsx';
-import Footer from './components/LayoutComponent/Footer/Footer.jsx';
-import Loader from './components/Loader.jsx';
+import { Routes, Route, useLocation } from 'react-router-dom';
+import Header from './components/LayoutComponent/Header/Header';
+import Footer from './components/LayoutComponent/Footer/Footer';
+import Loader from './components/UIComponents/Loader/Loader';
 
 // Code Splitting with lazy imports
 const Home = lazy(() => import('./Pages/Home/index.jsx'));
-const PropertyDetails = lazy(() => import('./Pages/PropertyDetails/index.jsx'));
-const Featured = lazy(() => import('./Pages/Featured/index.jsx'));
-const About = lazy(() => import('./Pages/About/index.jsx'));
-const Contact = lazy(() => import('./Pages/Contact/index.jsx'));
+const PropertyDetails = lazy(() => import('./Pages/PropertyDetails'));
+const Featured = lazy(() => import('./Pages/Featured'));
+const About = lazy(() => import('./Pages/About'));
+const Contact = lazy(() => import('./Pages/Contact'));
+const Login = lazy(() => import('./Pages/Login'));
+const SignUp = lazy(() => import('./Pages/SignUp'));
+import PrivateRoute from './components/UIComponents/PrivateRoute/PrivateRoute';
 
 const App = () => {
+  const location = useLocation();
+
+  // Hide Header and Footer on Login (/) and SignUp (/signup) pages
+  const hideHeaderFooter = location.pathname === '/' || location.pathname === '/signup';
+
   return (
-    <BrowserRouter>
-      <div className="app-container">
-        <Header />
-        <main className="main-content">
-          {/* Wrap dynamic imports with Suspense */}
-          <Suspense fallback={
-            <div className="container" style={{ minHeight: '60vh', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-              <Loader message="Loading page..." />
-            </div>
-          }>
-            <Routes>
-              <Route path="/" element={<Home />} />
+    <div className="app-container">
+      {!hideHeaderFooter && <Header />}
+      <main className="main-content">
+        {/* Wrap dynamic imports with Suspense */}
+        <Suspense fallback={
+          <div className="container" style={{ minHeight: '60vh', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+            <Loader message="Loading page..." />
+          </div>
+        }>
+          <Routes>
+            {/* Initially load Login at root (/) */}
+            <Route path="/" element={<Login />} />
+            <Route path="/signup" element={<SignUp />} />
+            
+            <Route element={<PrivateRoute />}>
+              <Route path="/home" element={<Home />} />
               <Route path="/property/:id" element={<PropertyDetails />} />
               <Route path="/featured" element={<Featured />} />
               <Route path="/about" element={<About />} />
               <Route path="/contact" element={<Contact />} />
-            </Routes>
-          </Suspense>
-        </main>
-        <Footer />
-      </div>
-    </BrowserRouter>
+            </Route>
+          </Routes>
+        </Suspense>
+      </main>
+      {!hideHeaderFooter && <Footer />}
+    </div>
   );
 };
 

@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import ApiService from '../../services/ApiService';
-import PropertyCard from '../../components/PropertyCard';
-import Loader from '../../components/Loader';
+import PropertyCard from '../../components/UIComponents/PropertyCard/PropertyCard';
+import Loader from '../../components/UIComponents/Loader/Loader';
 import './index.css';
 
 const Featured = () => {

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { useParams, Link } from 'react-router-dom';
+import { useParams, Link, useNavigate } from 'react-router-dom';
 import ApiService from '../../services/ApiService';
 import { formatPrice, formatArea } from '../../utils/helpers';
 import './index.css';
@@ -17,6 +17,7 @@ const PropertyDetails = () => {
     phone: '',
     message: 'I am interested in this property and would like to schedule a viewing.',
   });
+  const navigate = useNavigate();
 
   useEffect(() => {
     const fetchPropertyDetails = async () => {
@@ -67,7 +68,7 @@ const PropertyDetails = () => {
         <div className="error-card">
           <h2>Property Not Found</h2>
           <p>{error || 'The requested property could not be loaded.'}</p>
-          <Link to="/" className="btn btn-primary">
+          <Link to="/home" className="btn btn-primary">
             Back to Home
           </Link>
         </div>
@@ -79,13 +80,9 @@ const PropertyDetails = () => {
     <div className="property-details-page container fade-in">
       {/* Back navigation */}
       <div className="details-navigation">
-        <Link to="/" className="back-link">
-          <svg viewBox="0 0 24 24" width="16" height="16" stroke="currentColor" strokeWidth="2.5" fill="none" strokeLinecap="round" strokeLinejoin="round" style={{ marginRight: '6px' }}>
-            <line x1="19" y1="12" x2="5" y2="12"></line>
-            <polyline points="12 19 5 12 12 5"></polyline>
-          </svg>
-          Back to Listings
-        </Link>
+        <button  onClick={() => navigate(-1)} className="back-link">
+          <i className="fa-solid fa-arrow-left"></i> Back to Listings
+        </button>
       </div>
 
       {/* Main Header Information */}

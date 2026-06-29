@@ -5,19 +5,19 @@ const teamMembers = [
   {
     name: 'Sarah Jenkins',
     role: 'Principal Broker & Founder',
-    avatar: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=300&h=300&q=80',
+    avatar: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=600&h=700&q=80',
     bio: 'With over 15 years in luxury real estate, Sarah founded HomeNest with a vision to redefine high-end brokerage. Her dedication has consistently positioned her among the top brokers in Miami.'
   },
   {
     name: 'Marcus Vance',
     role: 'Managing Partner (New York & Chicago)',
-    avatar: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&h=300&q=80',
+    avatar: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=600&h=700&q=80',
     bio: 'Marcus oversees operations in New York and Chicago. His analytical approach to market trends and negotiation ensures clients secure premium deals in highly competitive metros.'
   },
   {
     name: 'Elena Rostova',
     role: 'Senior Advisor (Pacific Northwest)',
-    avatar: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=300&h=300&q=80',
+    avatar: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=600&h=700&q=80',
     bio: 'Elena is an expert in ecological and modern craftsman homes in Seattle and Denver. She specializes in guiding clients to homes that balance lifestyle aesthetics with energy efficiency.'
   }
 ];

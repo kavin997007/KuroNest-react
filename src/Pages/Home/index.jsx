@@ -1,9 +1,9 @@
 import React, { useState, useEffect, useRef, useCallback } from 'react';
 import ApiService from '../../services/ApiService';
-import Hero from '../../components/Hero';
-import FilterPanel from '../../components/FilterPanel';
-import PropertyCard from '../../components/PropertyCard';
-import Loader from '../../components/Loader';
+import Hero from '../../components/UIComponents/Hero/Hero';
+import FilterPanel from '../../components/UIComponents/FilterPanel/FilterPanel';
+import PropertyCard from '../../components/UIComponents/PropertyCard/PropertyCard';
+import Loader from '../../components/UIComponents/Loader/Loader';
 import { filterProperties } from '../../utils/helpers';
 import './index.css';
 

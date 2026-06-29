@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { formatPrice, formatArea } from '../utils/helpers';
+import { formatPrice, formatArea } from '../../../utils/helpers';
+import './PropertyCard.css';
 
 const PropertyCard = ({ property }) => {
   const { id, title, type, location, price, images, bedrooms, bathrooms, area, featured } = property;
