@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { motion } from 'framer-motion'
 import ApiService from '../../services/ApiService';
 import PropertyCard from '../../components/UIComponents/PropertyCard/PropertyCard';
 import Loader from '../../components/UIComponents/Loader/Loader';
@@ -34,9 +35,26 @@ const Featured = () => {
       <section className="featured-hero">
         <div className="featured-hero-overlay"></div>
         <div className="container featured-hero-content">
-          <span className="gold-badge">Curated Collections</span>
-          <h1>Our Signature Residences</h1>
-          <p>Explore an elite collection of hand-picked premium properties featuring unmatched design and amenities.</p>
+          <motion.span 
+                initial={{opacity: 0}}
+                animate={{opacity: 1}}
+                transition={{delay: 0.1}}
+                className="gold-badge"
+            >Curated Collections</motion.span>
+          <motion.h1 
+                initial={{opacity: 0, y: 40}}
+                animate={{opacity: 1, y: 0}}
+                transition={{duration: 0.8}}
+            >Our Signature Residences
+          </motion.h1>
+
+          <motion.p
+                initial={{opacity: 0}}
+                animate={{opacity:1}}
+                transition={{delay:0.3}}
+            >Explore an elite collection of hand-picked premium properties featuring unmatched design and amenities.
+          </motion.p>
+
         </div>
       </section>
 

@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useRef, useCallback } from 'react';
+import { motion } from 'framer-motion'
 import ApiService from '../../services/ApiService';
 import Hero from '../../components/UIComponents/Hero/Hero';
 import FilterPanel from '../../components/UIComponents/FilterPanel/FilterPanel';
@@ -146,7 +147,7 @@ const Home = () => {
       <section className="listings-section container" id="properties-section">
         <div className="section-header">
           <div className="section-title-wrap">
-            <span className="sub-title">Explore HomeNest</span>
+            <span className="sub-title">Explore KuroNest</span>
             <h2>Discover Premium Listings</h2>
           </div>
           <span className="listing-count">

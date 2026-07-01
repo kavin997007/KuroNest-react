@@ -1,0 +1,138 @@
+.about-hero {
+  height: 100vh;
+  background-image: var(--gradient-primary),
+    url("https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1800&q=80");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white ;
+}
+.about-overlay {
+  max-width: 900px;
+  padding: 20px;
+  
+}
+
+.about-hero h1 {
+  color: white;
+  font-size: 4rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.about-hero p {
+  font-size: 1.25rem;
+  line-height: 1.8;
+  margin-bottom: 35px;
+}
+
+.about-hero-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.about-primary-btn,
+.about-secondary-btn {
+  padding: 15px 35px;
+  border-radius: 50px;
+  border: none;
+  cursor: pointer;
+  font-size: 17px;
+  transition: 0.3s;
+}
+
+.about-primary-btn {
+  background:var(--primary);
+  color: white;
+}
+
+.about-primary-btn:hover {
+  transform: translateY(-4px);
+  background: var(--primary-hover);
+}
+
+.about-secondary-btn {
+  background: white;
+  color: #0f172a;
+}
+
+.about-secondary-btn:hover {
+  color: black !important;
+  transform: translateY(-4px);
+}
+
+
+@media (max-width: 991px) {
+
+  .about-hero {
+    min-height: 85vh;
+    padding: 100px 40px 60px;
+  }
+
+  .about-overlay {
+    max-width: 700px;
+  }
+
+  .about-hero h1 {
+    font-size: 3rem;
+  }
+
+  .about-hero p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+  }
+
+  .about-hero-buttons {
+    gap: 16px;
+  }
+
+  .about-primary-btn,
+  .about-secondary-btn {
+    padding: 14px 30px;
+    font-size: 16px;
+  }
+}
+
+
+@media (max-width: 767px) {
+
+  .about-hero {
+    min-height: 80vh;
+    padding: 90px 20px 50px;
+  }
+
+  .about-overlay {
+    width: 100%;
+  }
+
+  .about-hero h1 {
+    font-size: 2.2rem;
+    line-height: 1.3;
+    margin-bottom: 18px;
+  }
+
+  .about-hero p {
+    font-size: 1rem;
+    line-height: 1.7;
+    margin-bottom: 30px;
+  }
+
+  .about-hero-buttons {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .about-primary-btn,
+  .about-secondary-btn {
+    width: 100%;
+    max-width: 280px;
+    padding: 14px 20px;
+    font-size: 16px;
+    margin: auto;
+  }
+}

@@ -38,19 +38,19 @@ const agents = [
   {
     name: 'Sarah Jenkins',
     phone: '+1 (305) 555-0199',
-    email: 'sarah.j@homenest.com',
+    email: 'sarah.j@KuroNest.com',
     avatar: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&h=150&q=80'
   },
   {
     name: 'Marcus Vance',
     phone: '+1 (212) 555-0142',
-    email: 'marcus.v@homenest.com',
+    email: 'marcus.v@KuroNest.com',
     avatar: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80'
   },
   {
     name: 'Elena Rostova',
     phone: '+1 (206) 555-0188',
-    email: 'elena.r@homenest.com',
+    email: 'elena.r@KuroNest.com',
     avatar: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=150&h=150&q=80'
   }
 ];

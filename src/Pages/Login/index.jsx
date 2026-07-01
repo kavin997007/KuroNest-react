@@ -53,7 +53,7 @@ const Login = () => {
             </svg>
           </div>
           <h2>Welcome Back</h2>
-          <p>Login to your HomeNest account to access premium services.</p>
+          <p>Login to your KuroNest account to access premium services.</p>
         </div>
 
         {error && <div className="auth-error-banner">{error}</div>}

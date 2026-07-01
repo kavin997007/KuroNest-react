@@ -8,11 +8,13 @@ import Loader from './components/UIComponents/Loader/Loader';
 const Home = lazy(() => import('./Pages/Home/index.jsx'));
 const PropertyDetails = lazy(() => import('./Pages/PropertyDetails'));
 const Featured = lazy(() => import('./Pages/Featured'));
-const About = lazy(() => import('./Pages/About'));
+const About = lazy(() => import("./Pages/About/About.jsx"));
 const Contact = lazy(() => import('./Pages/Contact'));
 const Login = lazy(() => import('./Pages/Login'));
 const SignUp = lazy(() => import('./Pages/SignUp'));
 import PrivateRoute from './components/UIComponents/PrivateRoute/PrivateRoute';
+const Profile = lazy(() => import("./Pages/Profile/Profile.jsx"));
+const EditProfile = lazy(() => import("./Pages/Profile/EditProfile.jsx"));
 
 const App = () => {
   const location = useLocation();
@@ -41,6 +43,8 @@ const App = () => {
               <Route path="/featured" element={<Featured />} />
               <Route path="/about" element={<About />} />
               <Route path="/contact" element={<Contact />} />
+              <Route path="/profile" element={<Profile />} />
+              <Route path="/profile/edit" element={<EditProfile />} />
             </Route>
           </Routes>
         </Suspense>

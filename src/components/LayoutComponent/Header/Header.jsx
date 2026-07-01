@@ -49,7 +49,7 @@ const Header = () => {
               <polyline points="9 22 9 12 15 12 15 22"></polyline>
             </svg>
           </div>
-          <span className="logo-text">HomeNest</span>
+          <span className="logo-text">KuroNest</span>
         </Link>
 
         {/* Desktop Navigation */}
@@ -79,11 +79,31 @@ const Header = () => {
               {dropdownOpen && (
                 <div className="user-dropdown-panel">
                   <div className="user-dropdown-header">
-                    <span className="user-dropdown-name">{currentUser.displayName || 'HomeNest Member'}</span>
+                    <span className="user-dropdown-name">{currentUser.displayName || 'KuroNest Member'}</span>
                     <span className="user-dropdown-email">{currentUser.email}</span>
                   </div>
-                  <button className="user-dropdown-item logout-btn" onClick={handleLogout}>Sign Out</button>
-                </div>
+<Link
+    to="/profile"
+    className="user-dropdown-item"
+    onClick={() => setDropdownOpen(false)}
+>
+    👤 My Profile
+</Link>
+
+<Link
+    to="/contact"
+    className="user-dropdown-item"
+    onClick={() => setDropdownOpen(false)}
+>
+    📞 Contact
+</Link>
+
+<button
+    className="user-dropdown-item logout-btn"
+    onClick={handleLogout}
+>
+    🚪 Sign Out
+</button>                </div>
               )}
             </div>
           ) : (

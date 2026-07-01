@@ -181,7 +181,7 @@ const PropertyDetails = () => {
               <img src={property.contact.avatar} alt={property.contact.name} className="agent-avatar" />
               <div className="agent-info">
                 <h4>{property.contact.name}</h4>
-                <p>HomeNest Premier Advisor</p>
+                <p>KuroNest Premier Advisor</p>
               </div>
             </div>
 

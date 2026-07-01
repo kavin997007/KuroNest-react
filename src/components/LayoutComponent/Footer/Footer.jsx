@@ -14,7 +14,7 @@ const Footer = () => {
                 <polyline points="9 22 9 12 15 12 15 22"></polyline>
               </svg>
             </div>
-            <span className="logo-text-footer">HomeNest</span>
+            <span className="logo-text-footer">KuroNest</span>
           </div>
           <p className="brand-description">
             Your premium partner in finding modern, luxurious properties in exclusive neighborhoods. Elevating your real estate experience.
@@ -32,7 +32,7 @@ const Footer = () => {
 
         <div className="footer-contact">
           <h3>Contact Us</h3>
-          <p>Email: info@homenest.com</p>
+          <p>Email: info@kuronest.com</p>
           <p>Phone: +1 (800) 555-NEST</p>
           <p>Location: 500 Luxury Way, Miami FL</p>
         </div>
@@ -48,7 +48,7 @@ const Footer = () => {
       </div>
       <div className="footer-bottom">
         <div className="container footer-bottom-content">
-          <p>&copy; {new Date().getFullYear()} HomeNest. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} KuroNest. All rights reserved.</p>
           <div className="social-links">
             <a href="#" aria-label="Facebook"><i className="ri-facebook-fill"></i></a>
             <a href="#" aria-label="Twitter"><i className="ri-twitter-x-fill"></i></a>

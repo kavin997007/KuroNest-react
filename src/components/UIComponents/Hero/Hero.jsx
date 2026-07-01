@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { motion } from 'framer-motion'
 
 const Hero = ({ locations = [], types = [], onSearch }) => {
   const [heroSearch, setHeroSearch] = useState({
@@ -18,9 +19,21 @@ const Hero = ({ locations = [], types = [], onSearch }) => {
     <section className="hero">
       <div className="hero-overlay"></div>
       <div className="container hero-content">
-        <h1>Find Your Perfect Sanctuary</h1>
-        <p>Discover luxurious properties in exclusive neighborhoods tailored to your distinct lifestyle.</p>
-        
+        <motion.h1 
+          initial={{opacity: 0, y: 40}}
+          animate={{opacity: 1, y: 0}}
+          transition={{duration: 0.8}}
+        >
+          Find Your Perfect Sanctuary
+        </motion.h1>
+        <motion.p
+          initial={{opacity: 0}}
+          animate={{opacity: 1}}
+          transition={{delay: 0.3}}
+        >
+          Discover luxurious properties in exclusive neighborhoods tailored to your distinct lifestyle.
+        </motion.p>
+
         <form className="hero-search-bar" onSubmit={handleSubmit}>
           <div className="search-field">
             <label htmlFor="hero-location-select">Location</label>

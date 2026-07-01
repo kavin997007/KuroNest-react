@@ -1,36 +1,57 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap');
 
 :root {
-  /* Colors */
-  --primary: #0a4d3c;       /* Forest / Emerald Green */
-  --primary-hover: #07382c;
-  --primary-light: #e6f0ed;
-  --secondary: #d4af37;     /* Gold / Warm Amber */
-  --secondary-hover: #bfa02e;
-  --text-main: #1e293b;     /* Slate 800 */
-  --text-muted: #64748b;    /* Slate 500 */
-  --bg-main: #f8fafc;       /* Slate 50 */
-  --bg-card: #ffffff;
-  --bg-dark: #0f172a;       /* Slate 900 */
-  --bg-dark-light: #1e293b; /* Slate 800 */
-  
-  /* Borders & Shadows */
-  --border-color: #e2e8f0;
+  /* Primary Brand */
+  --primary:#111827;
+  --primary-hover:#000000;
+  --primary-light:#E5E7EB;
+
+  /* Secondary */
+  --secondary:#D4AF37;
+  --secondary-hover:#B8860B;
+
+  /* Accent */
+  --accent: #2563EB;
+
+  /* Background */
+  --bg-main:#F9FAFB;
+  --bg-card:#FFFFFF;
+  --bg-section: #F1F5F9;
+  --bg-dark:#030712;
+  --bg-dark-light: #1E293B;
+
+  /* Text */
+  --text-main:#1F2937;
+  --text-muted:#6B7280;
+  --text-light: #FFFFFF;
+
+  /* Border */
+  --border-color: #E2E8F0;
+
+  /* Border Radius */
   --border-radius-sm: 8px;
-  --border-radius-md: 12px;
-  --border-radius-lg: 20px;
-  
-  --shadow-sm: 0 1px 3px rgba(0,0,0,0.05);
-  --shadow-md: 0 4px 20px -2px rgba(10, 77, 60, 0.08), 0 2px 8px -1px rgba(0, 0, 0, 0.04);
-  --shadow-lg: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
-  
+  --border-radius-md: 14px;
+  --border-radius-lg: 24px;
+
+  /* Shadow */
+  --shadow-sm: 0 2px 8px rgba(0,0,0,.06);
+  --shadow-md: 0 8px 30px rgba(15,118,110,.12);
+  --shadow-lg: 0 20px 50px rgba(0,0,0,.15);
+
   /* Fonts */
-  --font-body: 'Inter', sans-serif;
-  --font-heading: 'Outfit', sans-serif;
-  
-  /* Layout */
+  --font-body: "Inter", sans-serif;
+  --font-heading: "Outfit", sans-serif;
+
   --max-width: 1280px;
   --header-height: 80px;
+
+  /* Gradient */
+  --gradient-primary: linear-gradient(
+      135deg,
+      rgba(17, 24, 39, 0.90) -100%,
+      rgba(0, 0, 0, 0.82) 50%,
+      rgba(180, 140, 40, 0.25) 100%
+    );;
 }
 
 * {
