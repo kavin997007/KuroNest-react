@@ -166,6 +166,11 @@
   text-decoration: underline;
 }
 
+.login-logo {
+  width: 80px;
+  margin-bottom: 20px;
+}
+
 @media (max-width: 480px) {
   .auth-card {
     padding: 24px 16px;

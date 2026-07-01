@@ -20,27 +20,19 @@
 .logo-container {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 12px;
 }
 
-.logo-icon {
-  background-color: var(--primary);
-  color: white;
-  width: 40px;
-  height: 40px;
-  border-radius: var(--border-radius-sm);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  box-shadow: 0 4px 10px rgba(10, 77, 60, 0.2);
+.logo-icon img {
+  width: 55px;
+  height: 55px;
+  object-fit: contain;
 }
 
 .logo-text {
-  font-family: var(--font-heading);
-  font-size: 24px;
-  font-weight: 800;
-  color: var(--bg-dark);
-  letter-spacing: -0.5px;
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #c8a74d;
 }
 
 .nav-desktop {
