@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BASE_URL = 'http://localhost:5000';
+const BASE_URL = import.meta.env.VITE_API_URL;
 
 const api = axios.create({
   baseURL: BASE_URL,
@@ -26,7 +26,7 @@ export const ApiService = {
         _per_page: limit, // JSON Server v1.x uses _per_page instead of _limit
       };
 
-      if (searchQuery) {
+      if (searchQuery) { 
         queryParams.q = searchQuery;
       }
       
